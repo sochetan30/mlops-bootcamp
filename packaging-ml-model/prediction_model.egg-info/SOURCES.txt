@@ -1,4 +1,7 @@
+MANIFEST.in
+requirements.txt
 setup.py
+prediction_model/VERSIONS
 prediction_model/__init__.py
 prediction_model/pipeline.py
 prediction_model/predict.py
@@ -9,6 +12,8 @@ prediction_model.egg-info/dependency_links.txt
 prediction_model.egg-info/top_level.txt
 prediction_model/config/__init__.py
 prediction_model/config/config.py
+prediction_model/datasets/test.csv
+prediction_model/datasets/train.csv
 prediction_model/processing/__init__.py
 prediction_model/processing/data_handling.py
 prediction_model/processing/preprocessing.py
