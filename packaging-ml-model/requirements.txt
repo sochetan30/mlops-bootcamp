@@ -1,0 +1,10 @@
+#Model building requiremenrs
+pandas
+scikit-learn
+joblib
+scipy
+wheel
+numpy
+seaborn
+ipykernel
+pytest
