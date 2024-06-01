@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chetu/Learning/mlops/mlops-bootcamp/mlflow-manage-ml-experiment/mlruns/203025893108047045/939e2ade80924c2f9e021805f0bce70f/artifacts
+end_time: 1717185473725
+entry_point_name: ''
+experiment_id: '203025893108047045'
+lifecycle_stage: active
+run_id: 939e2ade80924c2f9e021805f0bce70f
+run_name: bouncy-cat-264
+run_uuid: 939e2ade80924c2f9e021805f0bce70f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717185473682
+status: 3
+tags: []
+user_id: chetu

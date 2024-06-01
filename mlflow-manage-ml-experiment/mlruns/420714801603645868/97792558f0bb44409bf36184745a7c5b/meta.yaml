@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chetu/Learning/mlops/mlops-bootcamp/mlflow-manage-ml-experiment/mlruns/420714801603645868/97792558f0bb44409bf36184745a7c5b/artifacts
+end_time: 1717247641946
+entry_point_name: ''
+experiment_id: '420714801603645868'
+lifecycle_stage: active
+run_id: 97792558f0bb44409bf36184745a7c5b
+run_name: welcoming-fowl-870
+run_uuid: 97792558f0bb44409bf36184745a7c5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717247552299
+status: 4
+tags: []
+user_id: chetu

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chetu/Learning/mlops/mlops-bootcamp/mlflow-manage-ml-experiment/mlruns/0/76b107057e7742baae6b39fcd7c3a0ee/artifacts
+end_time: 1717195025140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76b107057e7742baae6b39fcd7c3a0ee
+run_name: skillful-grouse-146
+run_uuid: 76b107057e7742baae6b39fcd7c3a0ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717195022353
+status: 3
+tags: []
+user_id: chetu

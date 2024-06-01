@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chetu/Learning/mlops/mlops-bootcamp/mlflow-manage-ml-experiment/mlruns/0/b0c2d773b7994f9f8c073e4e80ea2b3b/artifacts
+end_time: 1717195022348
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0c2d773b7994f9f8c073e4e80ea2b3b
+run_name: sedate-ox-317
+run_uuid: b0c2d773b7994f9f8c073e4e80ea2b3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717195016076
+status: 3
+tags: []
+user_id: chetu

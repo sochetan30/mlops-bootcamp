@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chetu/Learning/mlops/mlops-bootcamp/mlflow-manage-ml-experiment/mlruns/483133781233752418/926f4f6c5f4143d6aff06d9768288ca8/artifacts
+end_time: 1717186729719
+entry_point_name: ''
+experiment_id: '483133781233752418'
+lifecycle_stage: active
+run_id: 926f4f6c5f4143d6aff06d9768288ca8
+run_name: dazzling-lamb-402
+run_uuid: 926f4f6c5f4143d6aff06d9768288ca8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717186725737
+status: 3
+tags: []
+user_id: chetu

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chetu/Learning/mlops/mlops-bootcamp/mlflow-manage-ml-experiment/mlruns/0/a132f4a7ccf64d2eb7d281259a36738f/artifacts
+end_time: 1717194538641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a132f4a7ccf64d2eb7d281259a36738f
+run_name: calm-ray-688
+run_uuid: a132f4a7ccf64d2eb7d281259a36738f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717194536521
+status: 4
+tags: []
+user_id: chetu

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chetu/Learning/mlops/mlops-bootcamp/mlflow-manage-ml-experiment/mlruns/0/02759acd5ab04c6da57f2e8aca3c7bfa/artifacts
+end_time: 1717076725038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02759acd5ab04c6da57f2e8aca3c7bfa
+run_name: Example Demo
+run_uuid: 02759acd5ab04c6da57f2e8aca3c7bfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717076725012
+status: 3
+tags: []
+user_id: chetu

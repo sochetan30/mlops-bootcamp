@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chetu/Learning/mlops/mlops-bootcamp/mlflow-manage-ml-experiment/mlruns/0/77d9bbf95a85490fa949908711c60728/artifacts
+end_time: 1717194770292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77d9bbf95a85490fa949908711c60728
+run_name: awesome-panda-656
+run_uuid: 77d9bbf95a85490fa949908711c60728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717194769791
+status: 4
+tags: []
+user_id: chetu

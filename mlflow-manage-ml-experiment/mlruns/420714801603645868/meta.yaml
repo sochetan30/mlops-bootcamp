@@ -1,0 +1,6 @@
+artifact_location: file:///Users/chetu/Learning/mlops/mlops-bootcamp/mlflow-manage-ml-experiment/mlruns/420714801603645868
+creation_time: 1717247552184
+experiment_id: '420714801603645868'
+last_update_time: 1717247552184
+lifecycle_stage: active
+name: loan_prediction

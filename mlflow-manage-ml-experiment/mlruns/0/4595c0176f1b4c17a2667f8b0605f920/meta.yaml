@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chetu/Learning/mlops/mlops-bootcamp/mlflow-manage-ml-experiment/mlruns/0/4595c0176f1b4c17a2667f8b0605f920/artifacts
+end_time: 1717190463263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4595c0176f1b4c17a2667f8b0605f920
+run_name: mysterious-shrew-219
+run_uuid: 4595c0176f1b4c17a2667f8b0605f920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717190463231
+status: 4
+tags: []
+user_id: chetu
