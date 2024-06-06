@@ -3,7 +3,7 @@ import streamlit as st
 import numpy as np
 
 
-model_name='RF_Loan_model.joblib'
+model_name='Build-MLApps-Streamlit/RF_Loan_model.joblib'
 
 model = joblib.load(model_name)
 
