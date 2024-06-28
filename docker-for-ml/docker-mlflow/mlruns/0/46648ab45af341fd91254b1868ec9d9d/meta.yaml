@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chetu/Learning/mlops/mlops-bootcamp/docker-for-ml/docker-mlflow/mlruns/0/46648ab45af341fd91254b1868ec9d9d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46648ab45af341fd91254b1868ec9d9d
+run_name: polite-snail-979
+run_uuid: 46648ab45af341fd91254b1868ec9d9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717532977744
+status: 1
+tags: []
+user_id: chetu

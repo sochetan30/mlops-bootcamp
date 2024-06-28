@@ -10,6 +10,8 @@ from sklearn import metrics
 import mlflow
 import os
 
+mlflow.set_tracking_uri("http://0.0.0.0:5001/")
+
 # Load the dataset
 dataset = pd.read_csv("train.csv")
 numerical_cols = dataset.select_dtypes(include=['int64','float64']).columns.tolist()
@@ -61,7 +63,7 @@ rf = RandomForestClassifier(random_state=RANDOM_SEED)
 
 param_grid_forest = {
     'n_estimators':[200,400,700],
-    'max_depth': [10.20,30],
+    'max_depth': [10,20,30],
     'criterion': ['gini','entropy'],
     'max_leaf_nodes':[50,100]
 }
@@ -136,10 +138,12 @@ def eval_metric(actual,pred):
     plt.close()
     return (accuracy,f1,auc)
 
-
+mlflow.set_experiment("Loan_prediction")
 
 def mlflow_logging(model,X,y, name):
+
     with mlflow.start_run() as run:
+        mlflow.set_tracking_uri("http://0.0.0.0:5001/") 
         run_id= run.info.run_id
         mlflow.set_tag("run_id",run_id)
         pred = model.predict(X)

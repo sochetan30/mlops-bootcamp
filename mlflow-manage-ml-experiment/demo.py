@@ -31,3 +31,5 @@ if __name__=='__main__':
     parsed_args = args.parse_args()
     # TO acess idividual argument access usng: parsed_ags.param1
     main(parsed_args.param1,parsed_args.param2)
+
+    
